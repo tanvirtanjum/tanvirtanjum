@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-    ##<stong><tanvirtanjum/></stong>
+    <img src="https://github.com/tanvirtanjum/tanvirtanjum.github.io/blob/main/assets/images/TanvirTanjum.gif">
 </div>
 
 
