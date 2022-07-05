@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <div>
 <div align="center">
-<strong>Skills</strong>
-
+    <h6>Skills</h6>
 </div>
 
 ###### Frameworks:
