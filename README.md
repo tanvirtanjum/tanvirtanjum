@@ -81,7 +81,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js-brightgreen?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/angularjs-d9d8d7?style=for-the-badge&logo=angularjs&logoColor=red"/>
+<img src="https://img.shields.io/badge/angularjs-red?style=for-the-badge&logo=angularjs&logoColor=black"/>
 
 
 <hr>
