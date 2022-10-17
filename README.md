@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br/><br/>
 <div>
 <div align="center">
-    <h6>Skills</h6>
+    <h4>Skills</h4>
 </div>
 
 
