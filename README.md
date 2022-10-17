@@ -101,9 +101,11 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitlab-black?style=for-the-badge&logo=gitlab&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-red?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20Office-red?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white"/>
 
 
 </div>
