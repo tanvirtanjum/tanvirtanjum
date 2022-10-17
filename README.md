@@ -106,6 +106,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Trello-blue?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/MS%20Office-red?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/cPanel-orange?style=for-the-badge&logo=cpanel&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Visual%20Studio-gray?style=for-the-badge&logo=visualstudio&logoColor=blue"/>
 
 
 </div>
